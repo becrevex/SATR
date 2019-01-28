@@ -13,7 +13,7 @@ You can also let me know if you come across them.
 
 --|--
 
-A principle of AEI is that tools and attacks come and go, so it’s arbitrary to learn them. The complexity of syntax with regard to advanced commands and attacks is simply not necessary to memorize. What is important is knowing what to do and when to do it. This concept resulted in the Adversarial Informatics Combat Module; a collection of tactics, techniques, and procedures used in adversarial engagements.
+A principle of AFI is that tools and attacks come and go, so it’s arbitrary to learn them. The complexity of syntax with regard to advanced commands and attacks is simply not necessary to memorize. What is important is knowing what to do and when to do it. This concept resulted in the redteam AFI; a collection of tactics, techniques, and procedures used in adversarial engagements.
 
 The module’s left ItemBox contains categories based on and organized by a standard penetration testing methodology. Each category has a series of techniques, tactics, and procedures that can be quickly identified and implemented during an adversarial engagement.
 

@@ -1,7 +1,7 @@
 # AFI-redteam
 This interface was written in Python and converted to an executable with pyinstaller.  
 
-<img align="center" src="https://github.com/Chambers82/AFI-redteam/blob/master/aic_ss.JPG" width="600" height="200" />
+<img align="center" src="https://github.com/Chambers82/AFI-redteam/blob/master/aicss.JPG" width="600" height="200" />
 
 Download the EXE and the XLS.  The EXE will read the XLS file and populate the interface.  
 

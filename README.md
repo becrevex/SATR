@@ -1,4 +1,4 @@
-# AFI-redteam
+# Static Adversarial Tradecraft Repository (SATR)
 This interface was written in Python and converted to an executable with pyinstaller.  
 
 <img align="center" src="https://github.com/Chambers82/AFI-redteam/blob/master/aicss.JPG" width="600" height="200" />
